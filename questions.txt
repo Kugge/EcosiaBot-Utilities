@@ -1,4 +1,9 @@
 $WORD
+is $WORD painful
+is $WORD funny
+is $WORD useless
+i hurt myself with $WORD
+$WORD tutorial
 how to make a $WORD
 can i make money with $WORD
 can i loose my job with $WORD
