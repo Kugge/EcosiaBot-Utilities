@@ -64,3 +64,12 @@ my $WORD is broken
 is $WORD mean something
 my $WORD is broken
 where can i buy a $WORD
+is $WORD expensive
+is $WORD cheap
+how much for $WORD
+is $WORD legal
+is $WORD illegal
+$WORD game
+$WORD gameplay
+download $WORD
+$WORD is my boyfriend
